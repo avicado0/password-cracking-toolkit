@@ -16,14 +16,9 @@ This project demonstrates password cracking techniques like brute force and dict
 ## Installation
 ```bash
 # Clone this repository
-git clone <repository-url>
-
+git clone https://github.com/avicado0/password-cracking-toolkit
 # Navigate to the project directory
 cd <repository-name>
-
-# Activate the virtual environment (if applicable)
-source VENV/bin/activate  # For Linux/macOS
-VENV\Scripts\activate  # For Windows
 
 # Install dependencies
 pip install -r requirements.txt
